@@ -8,7 +8,7 @@
 
 ### Frontend - React
 
-[Backend Call - line 17](Simple-React-Express-App/client/src/App.js)
+[Backend Call - line 17](https://github.com/whitneygriffith/Simple-React-Express-App/blob/master/client/src/App.js)
 
 ### To Run
 

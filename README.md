@@ -12,22 +12,29 @@
 
 ### To Run
 
-```git clone https://github.com/whitneygriffith/Simple-React-Express-App```
+```
+git clone https://github.com/whitneygriffith/Simple-React-Express-App
+cd Simple-React-Express-App
+```
 
-```cd Simple-React-Express-App```
+#### Start Backend: Express Server
 
-#### Start Backend
+This express backend server starts on `PORT=3000` by default.
 
-```npm install```
+```
+cd ./backend
+npm install
+npm start
+```
 
-```node server.js``` this will start the backend server
+#### Start Frontend: React App Server
 
-#### Start Frontend
+This react frontend server starts on `PORT=5000` by default.
 
-```cd client```
-
-```npm install```
-
-```npm start``` this will start the frontend-react app
+```
+cd ./client
+npm install
+npm start
+```
 
 

@@ -19,7 +19,7 @@ cd Simple-React-Express-App
 
 #### Start Backend: Express Server
 
-This express backend server starts on `PORT=3000` by default.
+This express backend server starts on `PORT=5000` by default.
 
 ```
 cd ./backend
@@ -29,7 +29,7 @@ npm start
 
 #### Start Frontend: React App Server
 
-This react frontend server starts on `PORT=5000` by default.
+This react frontend server starts on `PORT=3000` by default.
 
 ```
 cd ./client

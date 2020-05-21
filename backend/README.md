@@ -6,6 +6,12 @@
 npm install && npm start
 ```
 
+or
+
+```
+npm install && npm run start:dev
+```
+
 ## Dependencies
 
 |Package|Version|Production|Development|
